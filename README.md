@@ -24,8 +24,7 @@ To run this program, you need the following:
 - If you enter 'y', the simulation will start displaying the generations of cells.
 - Each generation will be displayed on the terminal.
 - The simulation will automatically progress to the next generation.
-- To end the simulation, enter 'y' when prompted to end.
-- If you enter 'n', the simulation will be aborted.
+
 
 Note: The simulation runs until the next generation is the same as the current generation.
 
