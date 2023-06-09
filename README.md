@@ -14,9 +14,9 @@ To run this program, you need the following:
 ## Usage
 
 1. Open the Ubuntu terminal.
-2. Compile the program using the following command:
+2. Compile the program using the following command: g++ life.cpp -o life
 
-3. Run the program using the following command:
+3. Run the program using the following command: ./life.o
 
 
 4. Follow the on-screen instructions:
